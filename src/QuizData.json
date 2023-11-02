@@ -1,0 +1,77 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["New York", "London", "Paris", "Dublin"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Giraffe", "Whale Shark", "Blue Whale"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gl", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "In which year did Christopher Columbus discover America?",
+      "options": ["1492", "1510", "1607", "1776"],
+      "answer": "1492"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Heart"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "George Orwell", "F. Scott Fitzgerald"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "options": ["3", "5", "7", "9"],
+      "answer": "7"
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+      "answer": "Jupiter"
+    }
+  ]
